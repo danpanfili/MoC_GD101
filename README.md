@@ -1,8 +1,11 @@
 # **Introduction to Game Development**
 ### Course Details
 Duration: 10-12 weeks
+
 Level: 5th - 8th Grade
+
 Created by Daniel Panfili, PhD 
+
 Distributed by Mindset of Champions
 
 ## Overview
