@@ -34,7 +34,7 @@ Game Jam Theme: One Button
 - Follow a guided project to create a simple game (Flappy Clone).
 - Familiarize students with the game development process.
 
-## Preperation
+## Preparation
 1. Required Software
 	- Unity Hub
 	- Unity 2022.3.49f1 (LTS)
